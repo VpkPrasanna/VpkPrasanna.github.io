@@ -11,12 +11,11 @@ author: Some Person
 
 # --- List of links in the navigation bar --- #
 
-
-navbar-links:
-  About Me: "aboutme"
-  Github:"https://github.com/VpkPrasanna"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
+navbar-links:
+  About Me: "aboutme"
+  Github: "https://github.com/VpkPrasanna"
   Twitter: "https://twitter.com/VpkPrasanna"
 
 # --- Logo --- #
