@@ -11,12 +11,13 @@ author: Some Person
 
 # --- List of links in the navigation bar --- #
 
+
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Github:"https://github.com/VpkPrasanna"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  Twitter: "https://twitter.com/VpkPrasanna"
 
 # --- Logo --- #
 
