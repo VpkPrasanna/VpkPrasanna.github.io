@@ -2,7 +2,7 @@
 layout: post
 title: Fast API
 subtitle: How to build a simple Fast Api for your ML Model
-cover-img: /assets/img/fastapi.png
+cover-img: /assets/img/vpk.png
 thumbnail-img: /assets/img/fastapi.png
 share-img: /assets/img/fastapi.png
 tags: [Api,fastapi,UI]
