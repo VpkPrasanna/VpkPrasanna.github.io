@@ -15,5 +15,6 @@ They can create api with the help of Flask Service,which is super easy and light
 In this post i am going to say about FASTAPI,with this framework we can able to build Api fastly and we can test with UI too. that was quite easy and helpful
 Fast Api
 
+Read the original blog here  [https://vpkprasanna.blogspot.com/2020/05/fast-api.html](https://vpkprasanna.blogspot.com/2020/05/fast-api.html)
 
 .
